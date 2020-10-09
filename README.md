@@ -14,11 +14,15 @@
 1. JAVA
 2. C
 3. Python
+![Python icon](/파이썬이미지.jpg)  
 
 ## 최근 관심 분야
 * 오픈소스
 * VR
 * 법
+
+
+
 ----------
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)
