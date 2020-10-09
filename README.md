@@ -11,9 +11,9 @@
 >> 게임  
 
 ## 사용 언어
-1. JAVA
-2. C
-3. Python
+1. JAVA  
+2. C  
+3. Python  
 ![Python icon](/파이썬이미지.jpg)  
 
 ## 최근 관심 분야
